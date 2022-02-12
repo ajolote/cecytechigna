@@ -9,5 +9,6 @@
 <body>
     
 <h1>Sistema de información del CECyTE Chignahuapan</h1>
+    esta es una prueba del git
 </body>
 </html>
